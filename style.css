@@ -1,0 +1,61 @@
+.header h1 {
+	text-align: center;
+	color: #EAD8B1;
+	background-color: #577D86;
+	font-family: Sofadi One Static
+}
+.header {
+	padding: 20px;
+	margin: 25px;
+	text-align: center;
+}
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+th {
+    text-align: center;
+}
+body {
+	background-image: url(https://i.pinimg.com/564x/54/74/97/547497755f13a2c784f3b110898201c0.jpg);
+}
+.container .table .content tr {
+	text-align: center;
+	color: #243642;
+}
+.Mickey {
+	border: 5px solid #5A639C;
+	background-color: #B9E5E8;
+}
+.miney {
+	border: 5px solid #5A639C;
+	background-color: #B9E5E8;
+	
+}
+.goofy {
+	border: 5px solid #5A639C;
+	background-color: #B9E5E8;
+
+}
+.Pluto {
+	border: 5px solid #5A639C;
+	background-color: #B9E5E8;
+}
+.Daisy {
+	border: 5px solid #5A639C;
+	background-color: #B9E5E8;
+}
+.container .table .M {
+	background-color: B9E5E8;
+}
+.footer {
+	bottom: 0;
+	position: fixed;
+	background-color: #577D86;
+	width: 100%;
+	text-align: center;
+	color: #EAD8B1;
+	background-color: #577D86;
+	font-family: Sofadi One Static
+}
